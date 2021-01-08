@@ -1,0 +1,11 @@
+name: PowersPlugin
+version: ${project.version}
+main: commakoopay.powersplugin.powersplugin.PowersPlugin
+api-version: 1.16
+authors: [ Makoopay ]
+description: FICEMC
+commands:
+  ChooseTeam:
+    aliases: [ct, chooseteam]
+  Shop:
+    aliases: [s, sp, shop]
